@@ -12,5 +12,8 @@
     "next": "9.1.1",
     "react": "16.10.2",
     "react-dom": "16.10.2"
+  },
+  "installConfig": {
+    "pnp": true
   }
 }
